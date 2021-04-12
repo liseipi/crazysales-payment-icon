@@ -1,0 +1,79 @@
+{
+  "id": "2099562",
+  "name": "payment-icon",
+  "font_family": "payfont",
+  "css_prefix_text": "payicon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14955224",
+      "name": "sca-icon_zip",
+      "font_class": "pay_29",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "14955228",
+      "name": "sca-icons_afterpay",
+      "font_class": "pay_17",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "14955229",
+      "name": "sca-icons_paypal",
+      "font_class": "pay_5",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "14955230",
+      "name": "sca-icons_apple-pay",
+      "font_class": "sca-icons_apple-pay",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "14955231",
+      "name": "sca-icons_american-express",
+      "font_class": "sca-icons_american-express",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "14955232",
+      "name": "sca-icons_visa",
+      "font_class": "sca-icons_visa",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "14955233",
+      "name": "sca-icons_mastercard",
+      "font_class": "sca-icons_mastercard",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "14990441",
+      "name": "sca_icon_poli",
+      "font_class": "pay_11",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "14991212",
+      "name": "sca-icon_bpay",
+      "font_class": "pay_6",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "15303223",
+      "name": "credit-card",
+      "font_class": "pay_19",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    }
+  ]
+}
